@@ -1,2 +1,2 @@
 # Healthcare-Chatbot
-Healthcare Chatbot developed using Flask and Machine Learning techniques(Decision Tre)
+Healthcare Chatbot developed using Flask and Machine Learning techniques(Decision Tree)
